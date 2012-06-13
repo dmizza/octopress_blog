@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "mizmizm1@mizmizmiz.com"
 ssh_port       = "22"
-document_root  = "~/public_html"
+document_root  = "~/mizmizmiz.com/public_html/www"
 rsync_delete   = true
 deploy_default = "rsync"
 
